@@ -1,21 +1,11 @@
 {
-    "name":  "Automation Test",
-    "nname": "123",
-    "mail": "test123",
-    "nmail":"123",
-    "password":"Test@12",
-     "repassword":"Test@12",
-     "nrepassword": "123",
-     "altemail": "redifftest@gmail.com",
-     "naltemail": "testing@gmail.com",
-     "security":"What is your favourite food?",
-     "Answer":"biriyani",
-     "Mothername":"Mother",
-     "mobno":"123456789",
-     "date":"10",
-     "month":"MAR",
-     "year":"1998",
-     "country":"India",
-     "city":"Coimbatore"
+    "signUp": {
+      "email": "office-reach@kfho3bcf.mailosaur.net",
+      "username": "QAtestcloud1unique21",
+      "password": "Password@123"
+    },
+    "mailosaur": {
+      "email": "iyappan@qaoncloud.com",
+      "password": "Iyappa@2710"
+    }
   }
- 
